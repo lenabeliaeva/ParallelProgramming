@@ -1,0 +1,3 @@
+C:/Users/lenab/CLionProjects/pp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lenab/CLionProjects/pp2/cmake-build-debug/CMakeFiles/openmp_test_clion.dir
+C:/Users/lenab/CLionProjects/pp2/cmake-build-debug/CMakeFiles/edit_cache.dir
